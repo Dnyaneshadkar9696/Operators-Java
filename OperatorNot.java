@@ -15,7 +15,7 @@ public class OperatorNot {
 		System.out.println( "1) a is not greater than b: " + !(a > b));  // true
 		System.out.println( "2) a is smaller than b: " + !(a < b)); // false 
 		System.out.println(" ");
-		System.out.println("Answer based on above problems is as follows: ");
+		System.out.println("Below are the answers for above equations: ");
 		System.out.println(" ");
 	
 		System.out.println( "1) " + !(2 < 4 && 4 < 8 || 5==5 && 8 > 4 || !(3 > 5))); // false
@@ -34,14 +34,15 @@ public class OperatorNot {
 		 
 		 c++; // here the value will be incremented 
 		 d--; // here the value will be decremented.
-		 System.out.println("Using the increment operator value of c is: : " + c++);
-		 System.out.println("Value of d after using decrement operator value of d is:  " + d);
-		 System.out.println("++c is : " + ++c);
-		 System.out.println("--d is : " + --d);
+		 System.out.println("1) Using the increment operator value of c is: : " + c++);
+		 System.out.println("2) Value of d after using decrement operator value of d is:  " + d);
+		 System.out.println("3) ++c is : " + ++c);
+		 System.out.println("4) --d is : " + --d);
 		 d++;
-		 System.out.println("Value of d after using post increment operator is: " + d);
+		 System.out.println("5) Value of d after using post increment operator is: " + d);
 		
 		
 	}
 
 }
+
