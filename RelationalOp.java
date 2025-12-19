@@ -17,7 +17,7 @@ public class RelationalOp {
 		System.out.println("6) a is not equal to b: " + (a != b)); // true
 		
 		// The logical operators are as follows:
-		// dont use not, use only AND and OR
+		
 		System.out.println(" ");
 		System.out.println("Logical Operators:");
 		System.out.println("1) (a > b) AND (a != b): " + ((a > b) && (a != b))); // true	
@@ -32,4 +32,5 @@ public class RelationalOp {
 	}
 
 }
+
 
