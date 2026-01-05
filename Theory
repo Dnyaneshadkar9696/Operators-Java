@@ -1,0 +1,8 @@
+Operators in Java
+
+1) Arithmatic operators -> +, -, *, /, and %
+2) Assignment operators -> +=, -=, *=, /=, %=
+3) Relational or we can say Comparison Operator -> <, >, <=, >=, !=
+4) Logical Operator -> And, Or, Not
+5) Bitwise Operator -> &, |, ~, <<, >>, ^
+    in bitwise and and or is same as logical And and Or and ^ is xor if 0-0 -> 0 same values is 0 different is 1
